@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "06043dc3-94e8-4587-829c-101cb6d94eb3",
+            "Value": {
+                "id": "4da1a329-e665-41cd-94ec-f6ea1c81ea78",
+                "resourcePath": "sprites\\guy_talking\\guy_talking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0aa3b1e3-00d3-444d-bdc9-cd0d1c503c2e",
             "Value": {
                 "id": "6e6938a1-1651-444e-ab1a-694cc050567a",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "96fa8e7c-9784-43df-b30f-dc2da2a5a4e6",
+            "Value": {
+                "id": "2d98851e-d206-4e71-9b47-0c2562b20823",
+                "resourcePath": "sprites\\guy_thinking\\guy_thinking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9a31a3a0-fea7-49a6-acd9-0b0e2732ffcc",
             "Value": {
                 "id": "4f2af5ab-2b0c-4dab-9a44-32ebe3817b24",
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "cc8bb4c3-d614-42ca-a9ee-622f571802ff",
+            "Value": {
+                "id": "7133e278-ad24-434d-b778-381c2916cbee",
+                "resourcePath": "objects\\guy\\guy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8463ebae-494d-49e4-ba1a-a20fb24f6f31",
@@ -220,6 +244,22 @@
                 "id": "0092c568-8974-4ed0-a8c3-a1c359cd57a0",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ea53f153-15f1-4835-9d14-37e139e9aabb",
+            "Value": {
+                "id": "49548b6b-054c-4427-a256-2aba39bfa0de",
+                "resourcePath": "sprites\\guy_smiling_small\\guy_smiling_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f51f6d3c-bf56-483e-8e4c-45f876cea9d7",
+            "Value": {
+                "id": "2fd4951f-c7cc-4ce7-84ca-7357adda2dab",
+                "resourcePath": "sprites\\guy_smiling\\guy_smiling.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

@@ -1,4 +1,4 @@
-text = "kjfhas dkfjh asldkjh askdljfh kaljsdh askjdh askldjhf ksdjahf sdkjfh alsdkjh";
+text = "Salutations sir, It's a pleasure to make your acquaintance.";
 charCount = 0;
 boxWidth = sprite_get_width(spr_box);
 stringHeight = string_height(text);

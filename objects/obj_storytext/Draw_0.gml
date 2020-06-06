@@ -16,4 +16,4 @@ if(charCount<string_length(text)){
 	instance_activate_layer("optionLayer");
 }
 textPart = string_copy(text, 1, charCount);
-draw_text_ext(x, y, textPart, stringHeight, boxWidth);
+draw_text_ext(x+20, y+20, textPart, stringHeight, boxWidth);
